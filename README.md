@@ -6,7 +6,7 @@
 
 <div id="socials align="center">
   <a href="#">
-    <img src="https://i.ibb.co/LDBVGYFJ/scale-1200.png" alt="kwork">
+    <img src="[https://i.ibb.co/LDBVGYFJ/scale-1200.png](https://i.ibb.co/tp4FrdJd/b-62ec40f3d8246.jpg)" alt="kwork">
   </a>
   <a href="#">
     <img src="https://i.ibb.co/LDBVGYFJ/scale-1200.png" alt="kwork">
