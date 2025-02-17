@@ -4,7 +4,7 @@
   <h3>Web разработчик</h3>
 </div>
 
-<div id="socials align="center">
+<div id="socials" align="center">
   <a href="#">
     <img src="https://i.ibb.co/LDBVGYFJ/scale-1200.png" alt="Kwork" width="200">
   </a>
