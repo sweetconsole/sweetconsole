@@ -6,10 +6,10 @@
 
 <div id="socials align="center">
   <a href="#">
-    <img src="https://i.ibb.co/LDBVGYFJ/scale-1200.png" alt="Kwork">
+    <img src="https://i.ibb.co/LDBVGYFJ/scale-1200.png" alt="Kwork" width="200">
   </a>
   <a href="#">
-    <img src="https://i.ibb.co/tp4FrdJd/b-62ec40f3d8246.jpg" alt="TenChat">
+    <img src="https://i.ibb.co/tp4FrdJd/b-62ec40f3d8246.jpg" alt="TenChat" width="200">
   </a>
 </div>
 
