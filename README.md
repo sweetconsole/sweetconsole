@@ -8,7 +8,7 @@
   <a href="#">
     <img src="https://i.ibb.co/whr4hkgn/b-62ec40f3d8246.jpg](https://i.ibb.co/VkBCkx5/scale-1200.png" alt="kwork">
   </a>
-  a href="#">
+  <a href="#">
     <img src="https://i.ibb.co/whr4hkgn/b-62ec40f3d8246.jpg" alt="kwork">
   </a>
 </div>
