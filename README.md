@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   <h1>Привет! Я Артём)</h1>
-  <h3>Web разработчик из деревни Забегалово</h3>
+  <h3>Web разработчик</h3>
 </div>
 
 <div id="socials align="center">
@@ -11,6 +11,13 @@
   <a href="#">
     <img src="https://i.ibb.co/whr4hkgn/b-62ec40f3d8246.jpg" alt="kwork">
   </a>
+</div>
+
+<div id="steck" align="center">
+  <h3>Языки программирования и фреймворки</h3>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </div>
 
 <!-- Статистика 
