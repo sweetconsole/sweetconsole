@@ -5,10 +5,10 @@
 </div>
 
 <div id="socials" align="center">
-  <a href="https://kwork.ru/user/sweetconsole">
+  <a href="https://kwork.ru/user/sweetconsole" target="_black">
     <img src="https://i.ibb.co/LDBVGYFJ/scale-1200.png" alt="Kwork" width="200">
   </a>
-  <a href="https://tenchat.ru/sweetconsole">
+  <a href="https://tenchat.ru/sweetconsole" target="_black">
     <img src="https://i.ibb.co/tp4FrdJd/b-62ec40f3d8246.jpg" alt="TenChat" width="200">
   </a>
 </div>
