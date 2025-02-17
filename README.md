@@ -6,15 +6,15 @@
 
 <div id="socials align="center">
   <a href="#">
-    <img src="https://i.ibb.co/VkBCkx5/scale-1200.png" alt="kwork">
+    <img src="https://i.ibb.co/LDBVGYFJ/scale-1200.png" alt="kwork">
   </a>
   <a href="#">
-    <img src="https://i.ibb.co/whr4hkgn/b-62ec40f3d8246.jpg" alt="kwork">
+    <img src="https://i.ibb.co/LDBVGYFJ/scale-1200.png" alt="kwork">
   </a>
 </div>
 
 <div id="steck" align="center">
-  <h3>Языки программирования и фреймворки</h3>
+  <h3>Языки программирования и Технологии</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" />   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="60" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" height="60" alt="CSS" />
