@@ -26,8 +26,11 @@
 - [Как я выполнил первый заказ на фрилансе](https://tenchat.ru/media/3027986-kak-ya-vypolnil-perviy-zakaz-na-frilanse)
 - [Реальный заказ на фрилансе](https://tenchat.ru/media/3031109-realniy-zakaz-na-frilanse)
 
-<div id="steck" align="center">
-  <h3>Технологии</h3>
+<h3 align="left">🛠 Технологии:</h3>
+
+###
+
+<div id="steck" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" />   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="60" alt="HTML" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" height="60" alt="CSS" />
