@@ -14,6 +14,18 @@
   </a>
 </div>
 
+<h3 align="left">👩‍💻  Обо мне</h3>
+
+###
+
+<p align="left"></p>
+
+###
+<h3 align="left">📕 Мои статьи</h3>
+
+- [Как я выполнил первый заказ на фрилансе](https://tenchat.ru/media/3027986-kak-ya-vypolnil-perviy-zakaz-na-frilanse)
+- [📃 Реальный заказ на фрилансе 🪙](https://tenchat.ru/media/3031109-realniy-zakaz-na-frilanse)
+
 <div id="steck" align="center">
   <h3>Технологии</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" />   
