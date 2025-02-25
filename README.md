@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img width="600" height="300" src="https://i.ibb.co/WNpRLktQ/eeb94f0dbbc9fb6d72c5706f1f874498.png">
   <h1>Привет👋 Меня зовут Артём!</h1>
-  <h3>Web разработчик</h3>
+  <h3>FrontEnd разработчик</h3>
 </div>
 
 <div id="socials" align="center">
