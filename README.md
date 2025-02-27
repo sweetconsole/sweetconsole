@@ -1,4 +1,4 @@
-<!--
+
 <div id="header" align="center">
   <img width="600" height="300" src="https://i.ibb.co/WNpRLktQ/eeb94f0dbbc9fb6d72c5706f1f874498.png">
   <h1>Привет👋 Меня зовут Артём!</h1>
@@ -49,13 +49,4 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sweetconsole" alt="stats graph" height="150px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweetconsole&layout=compact" height="150px" />
-</div>
--->
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sweetconsole" alt="stats graph" height="150px" />
-</div>
-
-<div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sweetconsole&layout=compact)
 </div>
