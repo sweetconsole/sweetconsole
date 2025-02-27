@@ -49,4 +49,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sweetconsole" alt="stats graph" height="150px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweetconsole&layout=compact" height="150px" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sweetconsole)](https://github.com/sweetconsole/github-readme-stats)
 </div>
