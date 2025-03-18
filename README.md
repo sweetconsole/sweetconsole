@@ -26,7 +26,7 @@
 - [Как я выполнил первый заказ на фрилансе](https://tenchat.ru/media/3027986-kak-ya-vypolnil-perviy-zakaz-na-frilanse)
 - [Реальный заказ на фрилансе](https://tenchat.ru/media/3031109-realniy-zakaz-na-frilanse)
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠 Технологии</h3>
 
 ###
 
