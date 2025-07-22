@@ -12,6 +12,9 @@
   <a href="https://tenchat.ru/sweetconsole" target="_black">
     <img src="https://i.ibb.co/tp4FrdJd/b-62ec40f3d8246.jpg" alt="TenChat" width="200">
   </a>
+  <a href="https://gitlab.com/sweetconsole" target="_blank">
+    <img src="https://i.ibb.co/Cp1kvHkt/8be61a20d81d17e7e724a9376fe9fec4.jpg" alt="GitLab" width="200">
+  </a>
 </div>
 
 <h3 align="left">👩‍💻  Обо мне</h3>
