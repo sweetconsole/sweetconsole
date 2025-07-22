@@ -7,7 +7,7 @@
 
 <div id="socials" align="center">
   <a href="https://gitlab.com/sweetconsole" target="_blank">
-    <img src="https://i.ibb.co/Cp1kvHkt/8be61a20d81d17e7e724a9376fe9fec4.jpg" alt="GitLab" width="200">
+    <img src="https://i.ibb.co/nsyphBDQ/8be61a20d81d17e7e724a9376fe9fec4.jpg" alt="GitLab" width="200">
   </a>
   <a href="https://kwork.ru/user/sweetconsole" target="_black">
     <img src="https://i.ibb.co/LDBVGYFJ/scale-1200.png" alt="Kwork" width="200">
